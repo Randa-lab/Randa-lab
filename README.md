@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=randa-lab" alt="randa-lab" /></a> </p>
 
-- 🔭 I’m currently working on [ML-IonoCast](https://www.dgfi.tum.de/en/projects/ml-ionocast/)
+- 🔭 I’m currently working on [ML-IonoCast](https://www.dgfi.tum.de/en/projects/ml-ionocast/) and [ML in Geodesy](https://github.com/ICCT-ML-in-geodesy)
 
 - 🌱 I’m currently learning **xAI, trustworthy AI**
 
