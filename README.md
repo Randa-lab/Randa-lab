@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **randa.natras@hotmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/natras/](https://www.linkedin.com/in/natras/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/natras/](https://www.linkedin.com/in/natras/) and [https://www.dgfi.tum.de/en/staff/natras-randa/](https://www.dgfi.tum.de/en/staff/natras-randa)
 
 - ⚡ Fun fact **Like hiking, learn languages (both programming and spoken), dance**
 
