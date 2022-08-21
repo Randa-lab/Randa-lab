@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Randa Natras.
+- 👋 Hi, I’m Randa.
 - 👀 I’m interested in Machine learning and Data science.
 - 🌱 I’m currently learning methods of interpretability (xAI) and uncertainty quantification for machine learning.
 - 💞️ I’m looking to collaborate on the machine learning projects.
