@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Randa</h1>
-<h3 align="center">A passionate machine learning and data scientist from Germany</h3>
+<h3 align="center">Doctoral candidate at TUM and passionate machine learning / data scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randa-lab&label=Profile%20views&color=0e75b6&style=flat" alt="randa-lab" /> </p>
 
