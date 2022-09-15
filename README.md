@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ML-IonoCast](https://www.dgfi.tum.de/en/projects/ml-ionocast/) and [ML in Geodesy](https://github.com/ICCT-ML-in-geodesy)
 
-- 🌱 I’m currently learning **xAI, trustworthy AI**
+- 🌱 I’m currently learning **xAI, trustworthy AI and uncertainty quantification in AI**
 
 - 📫 How to reach me **randa.natras@hotmail.com**
 
@@ -28,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=randa-lab&show_icons=true&locale=en&layout=compact" alt="randa-lab" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=randa-lab&show_icons=true&locale=en" alt="randa-lab" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=randa-lab&" alt="randa-lab" /></p>
