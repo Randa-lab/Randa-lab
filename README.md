@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [ML-IonoCast](https://www.dgfi.tum.de/en/projects/ml-ionocast/) and [ML in Geodesy](https://github.com/ICCT-ML-in-geodesy)
 
-- 🌱 I’m currently learning **xAI, trustworthy AI and uncertainty quantification in AI**
+- 🌱 I’m currently learning **uncertainty quantification in AI**
 
-- 📫 How to reach me **randa.natras@hotmail.com**
+- 📫 How to reach me **randa.natras@hotmail.com**, **randa.natras@tum.de**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/natras/](https://www.linkedin.com/in/natras/) and [https://www.dgfi.tum.de/en/staff/natras-randa/](https://www.dgfi.tum.de/en/staff/natras-randa)
 
