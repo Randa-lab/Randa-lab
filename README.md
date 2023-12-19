@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Randa</h1>
+<h1 align="center">Randa Natras</h1>
 <h3 align="center">Doctoral candidate at TUM; machine learning / data scientist</h3>
 
 - 🔭 I’m currently working on [ML-IonoCast](https://www.dgfi.tum.de/en/projects/ml-ionocast/) and [ML in Geodesy](https://github.com/ICCT-ML-in-geodesy)
